@@ -261,7 +261,7 @@ Here's what a standard test looks like.
 import assert from "assert";
 
 import React, { addons } from "react/addons";
-import AppIcon from "../AppIcon.js.jsx";
+import MyWidget from "../MyWidget.js.jsx";
 
 let shallowRenderer = React.addons.TestUtils.createRenderer();
 
